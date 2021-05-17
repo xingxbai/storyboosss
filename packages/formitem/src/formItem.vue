@@ -50,4 +50,7 @@ export default {
   color: red;
   font-size: 12px;
 }
+.info {
+  color: blue;
+}
 </style>
