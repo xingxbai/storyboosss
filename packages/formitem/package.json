@@ -1,5 +1,5 @@
 {
-  "name": "xxb-formItem",
+  "name": "xxb-form-item",
   "version": "0.0.2",
   "description": "",
   "main": "index.js",
@@ -11,5 +11,6 @@
   "license": "MIT",
   "dependencies": {
     "async-validator": "^3.5.2"
-  }
+  },
+  "gitHead": "0b95178a2c08b3a31a43bdc769e1de799167f16a"
 }
