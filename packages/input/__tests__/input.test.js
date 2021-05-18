@@ -28,7 +28,7 @@ describe("xxb-input", () => {
     const wrapper = mount(input, {
       propsData: {
         type: "text",
-        value: "admin",
+        value: "admin123",
       },
     });
     expect(wrapper.vm.$el).toMatchSnapshot();
