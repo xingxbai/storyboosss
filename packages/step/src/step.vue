@@ -1,12 +1,12 @@
 <template>
   <div>
-    this is xxb{{properCase name}}
+    this is xxbStep
   </div>
 </template>
 
 <script>
 export default {
-  name: 'xxb{{properCase name}}',
+  name: 'xxbStep',
   props: {
   }
 }
