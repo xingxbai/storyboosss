@@ -6,6 +6,9 @@
 export default {
   name: "xxbLink",
   props: {},
+  mounted() {
+    console.log(123);
+  },
 };
 </script>
 
