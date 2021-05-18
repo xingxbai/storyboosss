@@ -20,7 +20,7 @@ export default {
       this.$emit("input", evt.target.value);
       const findParent = (parent) => {
         while (parent) {
-          if (parent.$options.name === "LgFormItem") {
+          if (parent.$options.name === "xxbFormItem") {
             break;
           } else {
             parent = parent.$parent;
